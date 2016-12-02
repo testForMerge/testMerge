@@ -1,4 +1,5 @@
 this file is common for david L:D
 
 This change will affect everything
+Matej changes for common
 my changes are more perfect
