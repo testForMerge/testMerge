@@ -1,1 +1,4 @@
 this file is common for david L:D
+
+This change will affect everything
+my changes are more perfect
