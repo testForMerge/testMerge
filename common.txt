@@ -2,3 +2,5 @@ this file is common for david L:D
 
 This change will affect everything
 my changes are more perfect, few common changes
+Matej changes for common
+my changes are more perfect
